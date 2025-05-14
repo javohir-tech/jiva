@@ -1,5 +1,5 @@
 <template>
     <div>
-        <slot/>
+        documents page
     </div>
 </template>
