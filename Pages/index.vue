@@ -5,5 +5,6 @@ useHead({
 </script>
 <template>
     <h1>hello nuxt</h1>
-    <NuxtLink to="/about">about</NuxtLink>
+    <NuxtLink to="/about">about</NuxtLink> <br>
+    <NuxtLink to="/user">user</NuxtLink>
 </template>
